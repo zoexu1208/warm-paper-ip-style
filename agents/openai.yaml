@@ -1,0 +1,7 @@
+interface:
+  display_name: "温暖纸感手绘风"
+  short_description: "统一人物、网页、插画与内容展示的温暖纸感手绘视觉语言"
+  default_prompt: "使用 $warm-paper-ip-style 统一这次人物、网页或插画的视觉风格。"
+
+policy:
+  allow_implicit_invocation: true
